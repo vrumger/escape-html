@@ -11,5 +11,6 @@
   "bugs": {
     "url": "https://github.com/AndrewLaneX/escape-html/issues"
   },
-  "homepage": "https://github.com/AndrewLaneX/escape-html#readme"
+  "homepage": "https://github.com/AndrewLaneX/escape-html#readme",
+  "types": "index.d.ts"
 }
