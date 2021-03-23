@@ -1,0 +1,15 @@
+{
+  "name": "@youtwitface/escape-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewLaneX/escape-html.git"
+  },
+  "author": "Andrew Lane <contact@lungers.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewLaneX/escape-html/issues"
+  },
+  "homepage": "https://github.com/AndrewLaneX/escape-html#readme"
+}
