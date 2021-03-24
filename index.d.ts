@@ -1,1 +1,1 @@
-export default (html: string): string;
+export default (html: string) => string;
